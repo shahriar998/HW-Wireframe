@@ -41,7 +41,7 @@ section{
     padding-top: 25px;
     
     width: 60%;
-    height: 250px;
+    height: 350px;
     float: left;
     width: 495px;
 }
@@ -56,8 +56,28 @@ article{
 
 }
 .insideArticle1{
-    background-color:#ebebeb;
+    margin-top: 15px;
     color: #777;
+    height:35%;
+    padding-top:30px;
 
 }
    
+.bg777{
+    background-color:#ebebeb;
+}
+
+.insideArticle2{
+    
+    color: #777;
+    height:35%;
+    
+
+}
+.marginlf8{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+p{
+    padding-top: 25px;
+}
