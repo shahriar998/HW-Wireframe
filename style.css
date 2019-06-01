@@ -16,8 +16,9 @@ header{
     background: #ebebeb;
     color: #777;
     margin-left: auto;
-    margin-right: 2px;
-    padding: 20px;
+    margin-right: 24px;
+    padding: 40px;
+    height: 100px;
     
 }
 nav{ 
@@ -26,8 +27,9 @@ nav{
         background: #ebebeb;
         color: #777;
         margin-left: auto;
-        margin-right: 2px;
-        padding: 20px;
+        margin-right: 24px;
+        padding: 40px;
+        height: 100px;
         
     
 }
@@ -37,11 +39,11 @@ nav{
 section{
     background: #ebebeb;
     margin-top: 16px;
-    margin-left: 16px;
+    
     padding-top: 25px;
     
     width: 60%;
-    height: 350px;
+    height: 330px;
     float: left;
     width: 495px;
 }
@@ -53,6 +55,7 @@ article{
     margin-right: 8px;
     padding-top:16px;
     height: 75%;
+    margin-bottom: 20px;
 
 }
 .insideArticle1{
@@ -81,3 +84,25 @@ article{
 p{
     padding-top: 25px;
 }
+.aside{
+    float: left;
+    width: 45%;
+    padding: 25px;
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 330px;
+}
+footer{
+    overflow: auto;
+    clear: both;
+    margin: 20px;
+    border: solid 1px black;
+    width: 98%;
+    background: #ebebeb;
+    color: #777;
+    margin-left: auto;
+    margin-right: 24px;
+    padding: 40px;
+    height: 100px;
+}
+
